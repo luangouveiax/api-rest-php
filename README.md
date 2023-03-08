@@ -1,0 +1,1 @@
+API REST criada com PHP 7.4.x puro (sem framework)
